@@ -2,13 +2,23 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,25,30&height=300&section=header&text=Computer%20Engineering%20Student&fontSize=60&fontAlign=50&fontAlignY=40&desc=Building%20innovative%20solutions%20with%20code&descAlign=50&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,25,30&height=300&section=header&text=Full%20Stack%20Developer&fontSize=60&fontAlign=50&fontAlignY=40&desc=Building%20innovative%20solutions%20with%20code&descAlign=50&descAlignY=55&animation=fadeIn)
 
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;Android+App+Developer+%F0%9F%93%B1;Problem+Solver+%26+Innovator+%F0%9F%92%A1;Always+Learning+%26+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%8E%93;Android+App+Developer+%F0%9F%93%B1;Problem+Solver+%26+Innovator+%F0%9F%92%A1;Always+Learning+%26+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -22,30 +32,29 @@
 const divyajeet = {
     pronouns: "He/Him",
     location: "Mumbai, Maharashtra, India 🇮🇳",
-    role: "Computer Engineering Student",
+    role: "Full Stack Developer & Computer Engineering Student",
     university: "Vasantdada Patil Pratishthan's College",
     graduationYear: 2027,
-    passions: ["Full Stack Development", "Android Apps", "Innovation"],
-    currentFocus: "Building user-centric applications & career guidance systems",
+    passions: ["Full Stack Development", "Industrial Projects", "NGO Support"],
+    currentFocus: "Real-life freelance projects & industrial-level applications",
     
     dailyRoutine: {
         code: "Develop responsive web & mobile apps",
         learn: "Master new frameworks & technologies",
-        collaborate: "Work on team projects & hackathons",
-        innovate: "Create solutions for real-world problems"
+        collaborate: "Work on team projects & event management",
+        innovate: "Create real-life solutions for various organizations"
     },
     
     motto: "Code with purpose, innovate with passion! 💡"
 };
 ```
 
-- 🔭 **Currently Working On:** Student Career Guidance Dashboard with personalized assessments
+- 🔭 **Currently Working On:** Real-life freelance projects & industrial-level applications
 - 🌱 **Learning Journey:** Advanced system design, cloud architecture, and mobile development
-- 💼 **Experience:** TPO Coordinator | Somaiya Developers' Cell Member
-- 🏆 **Achievements:** Quasar 3.0 Hackathon Participant | IIT Bombay Certified
-- 💡 **Innovation Focus:** Smart shopping solutions, space farming research, career guidance systems
+- 💼 **Experience:** TPO Coordinator | Event Management | Team Collaboration Specialist
+- 💡 **Innovation Focus:** Building real-life projects and helping various NGOs
 - 💬 **Ask me about:** React, Node.js, Android development, Firebase, and full-stack solutions
-- ⚡ **Fun fact:** I'm researching plant growth in microgravity for space farming! 🚀🌱
+- ⚡ **Fun fact:** I love scripting and creating macros for automating various tasks! 🤖
 
 ---
 
@@ -60,28 +69,38 @@ const divyajeet = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🎨 Frontend & Mobile Development
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### ⚙️ Backend Development
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### 🗄️ Databases & Backend Services
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🤖 AI/ML & Data Science
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
 ### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white)
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
 
 </div>
 
@@ -91,29 +110,12 @@ const divyajeet = {
 
 <div align="center">
 
-### 📱 InCart - Smart Shopping Android App
-**Technologies:** Android, Kotlin, QR Code Scanning, Payment Integration
-- Developed an innovative Android app with integrated QR code scanning
-- Enables users to add products to virtual cart and seamless checkout
-- Eliminates waiting time at billing counters for enhanced shopping experience
-
-### 🌐 Alumni Association Web Platform
-**Technologies:** React, Node.js, Firebase, Full-Stack Development
-- Built a comprehensive responsive platform connecting students and alumni
-- Implemented authentication, forums, events, and job posting features
-- Created networking functionalities with search and connect capabilities
-
-### 🌱 Growing Plants in Microgravity Research
-**Technologies:** Arduino, IoT, Space Technology Research
-- Designed microgravity simulation using Arduino-powered clinostat
-- Studying plant growth without soil for space farming advancement
-- Contributing to space agriculture research and low-gravity environments
-
-### 📊 Student Career Guidance Dashboard *(Ongoing)*
-**Technologies:** React, Node.js, Assessment Systems, Data Analytics
-- Creating career-oriented platform with registration and assessments
-- Implementing personalized career track placement system
-- Features skill-building modules and customized guidance based on results
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| 📱 **InCart - Smart Shopping** | Android, Kotlin, QR Scanning | QR code shopping app with seamless checkout, eliminating billing queues |
+| 🌐 **Alumni Association Platform** | React, Node.js, Firebase | Full-stack platform connecting students & alumni with forums and networking |
+| 🌱 **Microgravity Plant Research** | Arduino, IoT | Arduino-powered clinostat for space farming research |
+| 📊 **Career Guidance Dashboard** | React, Analytics | Career assessment platform with personalized track recommendations |
 
 </div>
 
@@ -137,24 +139,11 @@ const divyajeet = {
 
 ---
 
-## 🏆 Achievements & Certifications
+## 📊 Weekly Development Breakdown
 
 <div align="center">
 
-### 🎯 Academic Excellence
-![Computer Engineering](https://img.shields.io/badge/BTech-Computer%20Engineering-blue?style=for-the-badge)
-![University](https://img.shields.io/badge/University-Mumbai-green?style=for-the-badge)
-![Graduation](https://img.shields.io/badge/Graduation-2027-red?style=for-the-badge)
-
-### 🏅 Certifications & Training
-![Java](https://img.shields.io/badge/Java%20Training-IIT%20Bombay-orange?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python%20Training-IIT%20Bombay-yellow?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-Swayam%20NPTEL-purple?style=for-the-badge)
-
-### 🏆 Competition & Leadership
-![Hackathon](https://img.shields.io/badge/Quasar%203.0-Hackathon%20Participant-cyan?style=for-the-badge)
-![TPO](https://img.shields.io/badge/TPO-Coordinator-gold?style=for-the-badge)
-![Developer](https://img.shields.io/badge/Somaiya-Developers'%20Cell-lightblue?style=for-the-badge)
+[![Divyajeet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -197,11 +186,11 @@ const divyajeet = {
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Technoblade's Wisdom
 
 <div align="center">
   
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> *"If you know the enemy and know yourself, you need not fear the result of a hundred battles."* - Sun Tzu (as quoted by Technoblade)
 
 </div>
 
