@@ -25,7 +25,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # This change gives you the design you wanted
           outputs: |
-            dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
       - name: Push snake animation to the output branch
