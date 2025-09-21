@@ -8,7 +8,17 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%8E%93;Android+App+Developer+%F0%9F%93%B1;Problem+Solver+%26+Innovator+%F0%9F%92%A1;Always+Learning+%26+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Minecraft&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%8E%93;Android+App+Developer+%F0%9F%93%B1;Problem+Solver+%26+Innovator+%F0%9F%92%A1;Always+Learning+%26+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -115,15 +125,15 @@ const divyajeet = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeeT-149&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Divyajeet's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Divyajeet's GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeT-149&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakNum=F85D7F&sideNums=F85D7F&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=F8D866)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JeeT-149&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakNum=F85D7F&sideNums=F85D7F&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=F8D866)](https://git.io/streak-stats)
 
 </div>
 
@@ -133,7 +143,7 @@ const divyajeet = {
 
 <div align="center">
 
-[![Divyajeet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JeeT149&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
+[![Divyajeet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -143,7 +153,7 @@ const divyajeet = {
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/JeeT-149/JeeT-149/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg)
 
 </div>
 
@@ -153,7 +163,7 @@ const divyajeet = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=JeeT-149&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -180,7 +190,11 @@ const divyajeet = {
 
 <div align="center">
   
-> *"If you know the enemy and know yourself, you need not fear the result of a hundred battles."* - Sun Tzu (as quoted by Technoblade)
+> ***"If you know the enemy and know yourself, you need not fear the result of a hundred battles."*** 
+> 
+> **- Sun Tzu (as quoted by Technoblade)**
+>
+> *"TECHNOBLADE NEVER DIES! 👑"*
 
 </div>
 
@@ -190,8 +204,8 @@ const divyajeet = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/divyajeet-sahu-5b5b872b5/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JeeT-149)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/divyajeet-sahu)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyajeetsahu24@gmail.com)
 
 </div>
@@ -202,8 +216,8 @@ const divyajeet = {
 
 **Thanks for visiting! Let's innovate and build the future together! 🚀**
 
-![Profile Views](https://komarev.com/ghpvc/?username=JeeT-149&label=Profile%20views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/JeeT-149?label=Followers&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=blue)
 
 </div>
 
@@ -214,4 +228,3 @@ const divyajeet = {
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,25,30&height=150&section=footer&animation=fadeIn)
 
 </div>
-
