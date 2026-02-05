@@ -116,15 +116,11 @@ const jeet = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeeT-149&show_icons=true&theme=radical" />
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JeeT-149)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeT-149&layout=compact&theme=radical" />
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JeeT-149)
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JeeT-149&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=JeeT-149)
 
 </div>
 
