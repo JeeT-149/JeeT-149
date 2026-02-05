@@ -1,14 +1,14 @@
-# 👋 Hey, I'm Divyajeet Sahu!
+# 👋 Hey, I'm JeeT!
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,25,30&height=300&section=header&text=Full%20Stack%20Developer&fontSize=60&fontAlign=50&fontAlignY=40&desc=Building%20innovative%20solutions%20with%20code&descAlign=50&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,25,30&height=300&section=header&text=JeeT&fontSize=60&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=55&animation=fadeIn&font=Minecraft)
 
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Minecraft&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%8E%93;Android+App+Developer+%F0%9F%93%B1;Problem+Solver+%26+Innovator+%F0%9F%92%A1;Always+Learning+%26+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Minecraft&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+🚀;Computer+Engineering+Student+🎓;Android+App+Developer+📱;Problem+Solver+%26+Innovator+💡;Always+Learning+%26+Growing+🌱)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,11 +19,11 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```typescript
-const divyajeet = {
+const jeet = {
     pronouns: "He/Him",
-    location: "Mumbai, Maharashtra, India 🇮🇳",
+    location: "India 🇮🇳",
     role: "Full Stack Developer & Computer Engineering Student",
-    university: "Vasantdada Patil Pratishthan's College",
+    university: "Mumbai University",
     graduationYear: 2027,
     passions: ["Full Stack Development", "Industrial Projects", "NGO Support"],
     currentFocus: "Real-life freelance projects & industrial-level applications",
@@ -32,7 +32,7 @@ const divyajeet = {
         code: "Develop responsive web & mobile apps",
         learn: "Master new frameworks & technologies",
         collaborate: "Work on team projects & event management",
-        innovate: "Create real-life solutions for various organizations"
+        innovate: "Create real-life solutions for organizations"
     },
     
     motto: "Code with purpose, innovate with passion! 💡"
@@ -42,9 +42,9 @@ const divyajeet = {
 - 🔭 **Currently Working On:** Real-life freelance projects & industrial-level applications
 - 🌱 **Learning Journey:** Advanced system design, cloud architecture, and mobile development
 - 💼 **Experience:** TPO Coordinator | Event Management | Team Collaboration Specialist
-- 💡 **Innovation Focus:** Building real-life projects and helping various NGOs
-- 💬 **Ask me about:** React, Node.js, Android development, Firebase, and full-stack solutions
-- ⚡ **Fun fact:** I love scripting and creating macros for automating various tasks! 🤖
+- 💡 **Innovation Focus:** Building real-life projects and helping NGOs
+- 💬 **Ask me about:** React, Next.js, Node.js, Supabase, Prisma, Android development
+- ⚡ **Fun fact:** I love scripting and creating macros for automation 🤖
 
 ---
 
@@ -74,23 +74,24 @@ const divyajeet = {
 ### ⚙️ Backend Development
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### 🗄️ Databases & Backend Services
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 AI/ML & Data Science
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
+
 
 </div>
 
@@ -102,10 +103,10 @@ const divyajeet = {
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| 📱 **InCart - Smart Shopping** | Android, Kotlin, QR Scanning | QR code shopping app with seamless checkout, eliminating billing queues |
-| 🌐 **Alumni Association Platform** | React, Node.js, Firebase | Full-stack platform connecting students & alumni with forums and networking |
-| 🌱 **Microgravity Plant Research** | Arduino, IoT | Arduino-powered clinostat for space farming research |
-| 📊 **Career Guidance Dashboard** | React, Analytics | Career assessment platform with personalized track recommendations |
+| 📱 **InCart - Smart Shopping** | Android, Kotlin | QR code shopping app with seamless checkout and queue-free billing |
+| 🌐 **Alumni Association Platform** | React, Node.js, Firebase | Full-stack alumni networking and mentorship platform |
+| 📚 **Zirofy** | React, Next.js, Supabase | A complete academic platform providing textbooks, solved answers, PYQs, and curated YouTube tutorials in one structured portal — https://zirofy.com/ |
+| 🏥 **Brilliance Education & Welfare Trust** | React, Next.js, Cloudflare | Trust organization website presenting education, medical support, and scholarship initiatives with outreach programs — https://www.brilliancetrust.org/ |
 
 </div>
 
@@ -114,16 +115,16 @@ const divyajeet = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeeT-149&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Divyajeet's GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeT-149&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeeT-149&show_icons=true&theme=radical" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeT-149&layout=compact&theme=radical" />
 
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JeeT-149&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakNum=F85D7F&sideNums=F85D7F&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=F8D866)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JeeT-149&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
@@ -193,8 +194,7 @@ const divyajeet = {
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/divyajeet-sahu-5b5b872b5/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JeeT-149)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyajeetsahu24@gmail.com)
 
